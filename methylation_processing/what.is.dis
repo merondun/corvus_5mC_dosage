@@ -1,0 +1,1 @@
+general workflow for extracting bismark .cov files from fastq. It will take fastq, trim, map, deduplicate (WGBS), remove sites overlapping C-T SNP from resequencing dataset, only keep sites on large chromosomes, remove 5mC overlapping repeats, and summarize some useful things like M-bias trends
