@@ -1,4 +1,4 @@
-# Project Title
+# Genome Preparation
 Examining synteny between crow and other species sex chromosomes and prep genome e.g. for SNP file from resequencing data, repeats , CpG islands. 
 
 ## File Descriptions
